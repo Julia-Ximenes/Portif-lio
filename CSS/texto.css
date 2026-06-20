@@ -1,6 +1,6 @@
 h1{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 90px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 85px;
     text-align: center;
 }
 
@@ -17,4 +17,13 @@ h3{
 p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
+}
+
+.conteiner_contato h2{
+    margin-left: 20px;
+}
+
+.conteiner_projetos h2{
+    margin-top: 100px;
+    text-align: center;
 }

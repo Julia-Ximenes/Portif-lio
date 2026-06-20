@@ -1,0 +1,12 @@
+hr{
+    width: 600px;
+    height: 3px;
+    border: none;
+}
+
+.conteiner_contato hr{
+    margin-left: 10px;
+    width: 350px;
+    margin-top: -40px;
+    height: 2px;
+}

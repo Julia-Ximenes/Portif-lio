@@ -1,9 +1,41 @@
 .conteiner_pai{
+    align-self: flex-start;
+    display:inline-block; 
+}
 
+.conteiner_cabecalho hr{
+    margin-right: 350px;
+    margin-top: -50px;
+}
+
+.conteiner_info_eu{
+    display: flex;
+    margin-top: 100px;
+    height: 500px;
+    padding: 30px;
+    margin-left: -20px;
+    margin-right: -8px;
 }
 
 .conteiner_sobre_mim{
-    
+    margin-left: 100px;
+    flex: 400px;
+    border: #495f6d  groove 2px;
+    padding: 25px;
+    border-radius: 55px;
+    margin-right: -68px;
+    padding-right: 50px;
+}
+
+.conteiner_contato{
+    margin-left: -68px;
+    margin-right: 60px;
+    flex: 300px;
+    border-radius: 55px;
+    padding-left: 70px;
+    border: #495f6d  groove 2px;
+    height: 400px;
+    margin-top: 50px;
 }
 
 .conteiner_projetos{

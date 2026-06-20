@@ -1,0 +1,10 @@
+.lista{
+    list-style-type:disc;
+    padding-left: 10px;
+}
+
+.lista li{
+    font-size: 20px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
