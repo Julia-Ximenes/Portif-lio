@@ -1,4 +1,9 @@
 img{
-    width: 660px;
-    height: 360px;
+    width: 560px;
+    height: 260px;
+    border-radius: 5px;
+}
+
+.img1 {
+   margin-left: 20px;
 }
