@@ -41,3 +41,23 @@
     margin-right: -8px;
     padding: 30px;
 }
+
+.conteiner_curriculo{
+    margin-left: 30px;
+    background-color: aliceblue;
+    height: 400px;
+    border-radius: 55px;
+    width: 900px;
+    padding: 30px;
+    margin-bottom: 100px;
+  
+}
+
+.conteiner_viagens{
+  margin-left: 30px;
+    background-color: aliceblue;
+    height: 400px;
+    border-radius: 55px;
+    width: 900px;
+    padding: 30px;
+}
