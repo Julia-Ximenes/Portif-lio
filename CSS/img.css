@@ -8,3 +8,8 @@ img{
 .img1 {
    margin-left: 20px;
 }
+
+.img2 img {
+    margin-left: 80px;
+    width: 550px;
+}
