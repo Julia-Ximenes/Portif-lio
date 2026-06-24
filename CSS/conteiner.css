@@ -50,7 +50,7 @@
     width: 900px;
     padding: 30px;
     margin-bottom: 100px;
-  
+    border: groove rgb(129, 144, 148) 2px;  
 }
 
 .conteiner_viagens{
@@ -61,6 +61,7 @@
     width: 900px;
     padding: 30px;
     margin-bottom: 100px;
+    border: groove rgb(129, 144, 148) 2px;
 }
 
 .conteiner_carros{
@@ -71,6 +72,8 @@
     width: 900px;
     padding: 30px;
     margin-bottom: 100px;
+    border: groove rgb(129, 144, 148) 2px;
+
 }
 
 .conteiner_playlist{
@@ -80,6 +83,7 @@
     border-radius: 55px;
     width: 900px;
     padding: 30px;
+    border: groove rgb(129, 144, 148) 2px;
 }
 
 .conteiner_img1{
